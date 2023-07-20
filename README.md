@@ -29,10 +29,6 @@ The sample data used in each algorithm's implementation is kept simple for demon
 
 Contributions to this repository are welcome! If you find any issues or have improvements to suggest, feel free to open a pull request.
 
-## License
-
-This repository is licensed under the [MIT License](LICENSE.md). You are free to use the code in this repository for educational and personal purposes. For more details, please refer to the [LICENSE.md](LICENSE.md) file.
-
 ## Disclaimer
 
 These implementations are meant for educational purposes and might not be optimized for real-world scenarios. For production use or critical applications, it is recommended to use well-established machine learning libraries and frameworks that have been thoroughly tested and optimized.Please note that these implementations serve as basic examples to understand how each algorithm works. For real-world applications, it's essential to preprocess data properly, handle missing values, and perform hyperparameter tuning to achieve better results. Additionally, different libraries and frameworks might offer additional options and functionalities for these algorithms.
